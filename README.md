@@ -1,10 +1,20 @@
 # consul-dockercompose
 Learn Consul with a local sandbox using docker-compose
 
+#Setup
+
+Vs Code with Docker and Docker Extensions
+Docker Desktop Latest
+
 # Step 1
 /step1
 Create a simple Consul Server.
 We using client 0.0.0.0
+
+#Images
+consulsandbox: add dig and soemthing else
+demoapp: prepare your stuff
+
 
 consul agent \
   -server \
